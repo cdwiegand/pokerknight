@@ -1,0 +1,55 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+| PokerKnight Game Log File |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Copyright, ShadowCastle Software
+This is the game record for 11/9/2002 1:40:18 AM
+ 
+=+= - Player Connect Events
+*@* - Game Events
+ 
+      SESSION #1       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+ 
+ 
+11/9/2002 1:40:58 AM =+= New Player Joined! dgdgd *@*
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+| PokerKnight Game Log File |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Copyright, ShadowCastle Software
+This is the game record for 11/9/2002 1:02:21 PM
+ 
+=+= - Player Connect Events
+*@* - Game Events
+ 
+      SESSION #1       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+ 
+ 
+13:02 =+= New Player Joined! asdasd *@*
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+| PokerKnight Game Log File |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Copyright, ShadowCastle Software
+This is the game record for 11/9/2002 1:04:53 PM
+ 
+=+= - Player Connect Events
+*@* - Game Events
+ 
+      SESSION #1       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+ 
+ 
+1:05:25 PM =+= New Player Joined! sadasdasd *@*
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+| PokerKnight Game Log File |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Copyright, ShadowCastle Software
+This is the game record for 11/9/2002 1:05:47 PM
+ 
+=+= - Player Connect Events
+*@* - Game Events
+ 
+      SESSION #1       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+ 
+ 

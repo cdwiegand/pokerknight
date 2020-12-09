@@ -1,0 +1,587 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+| PokerKnight Game Log File |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Copyright, ShadowCastle Software
+This is the game record for 11/10/2002 1:52:56 PM
+ 
+=+= - Player Connect Events
+*@* - Game Events
+ 
+      SESSION #1       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- Today's first session began at 11/10/2002 1:52:56 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 1:59:44 PM-\-\-\-\-
+ 
+2:01:42 PM === DECK RESHUFFLED ===
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 2:12:12 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 2:14:42 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 2:18:13 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 2:18:46 PM-\-\-\-\-
+ 
+2:20:34 PM =+= New Player Joined! data =+=
+2:20:34 PM =+= New Player Joined! data =+=
+2:20:34 PM =+= New Player Joined! data =+=
+2:20:56 PM ---( Card dealt to : the A of Spades )---
+2:20:57 PM ---( Card dealt to : the K of Clubs )---
+2:20:57 PM ---( Card dealt to : the 2 of Clubs )---
+2:20:57 PM ---( Card dealt to : the 9 of Hearts )---
+2:20:57 PM ---( Card dealt to : the 8 of Spades )---
+2:20:57 PM ---( Card dealt to : the 4 of Hearts )---
+2:21:14 PM ---( Card dealt to : the 6 of Diamonds )---
+2:21:15 PM ---( Card dealt to : the 6 of Clubs )---
+2:21:15 PM ---( Card dealt to : the 5 of Clubs )---
+2:21:15 PM ---( Card dealt to : the 5 of Spades )---
+2:21:15 PM ---( Card dealt to : the 5 of Diamonds )---
+2:21:15 PM ---( Card dealt to : the 3 of Spades )---
+2:21:20 PM ---( Card dealt to : the J of Hearts )---
+2:21:21 PM ---( Card dealt to : the 3 of Diamonds )---
+2:21:21 PM ---( Card dealt to : the J of Clubs )---
+2:21:21 PM ---( Card dealt to : the 2 of Diamonds )---
+2:21:21 PM ---( Card dealt to : the A of Hearts )---
+2:21:21 PM ---( Card dealt to : the 5 of Hearts )---
+2:21:30 PM ---( Card dealt to : the 6 of Hearts )---
+2:21:30 PM ---( Card dealt to : the K of Hearts )---
+2:21:30 PM ---( Card dealt to : the 0 of Spades )---
+2:21:30 PM ---( Card dealt to : the Q of Spades )---
+2:21:30 PM ---( Card dealt to : the 0 of Hearts )---
+2:21:30 PM ---( Card dealt to : the J of Spades )---
+2:21:31 PM ---( Card dealt to : the 7 of Hearts )---
+2:21:31 PM ---( Card dealt to : the Q of Clubs )---
+2:21:31 PM ---( Card dealt to : the 4 of Diamonds )---
+2:21:31 PM ---( Card dealt to : the 8 of Hearts )---
+2:21:31 PM ---( Card dealt to : the 6 of Spades )---
+2:21:32 PM ---( Card dealt to : the 9 of Spades )---
+2:21:33 PM ---( Card dealt to : the 7 of Spades )---
+2:21:33 PM ---( Card dealt to : the A of Clubs )---
+2:21:33 PM ---( Card dealt to : the 2 of Hearts )---
+2:21:34 PM ---( Card dealt to : the 7 of Diamonds )---
+2:21:34 PM ---( Card dealt to : the 8 of Diamonds )---
+2:21:35 PM ---( Card dealt to : the 8 of Clubs )---
+2:21:35 PM ---( Card dealt to : the 0 of Clubs )---
+2:21:35 PM ---( Card dealt to : the 4 of Spades )---
+2:21:35 PM ---( Card dealt to : the 7 of Clubs )---
+2:21:35 PM ---( Card dealt to : the Q of Hearts )---
+2:21:36 PM ---( Card dealt to : the 9 of Diamonds )---
+2:21:40 PM ---( Card dealt to : the 4 of Clubs )---
+2:21:40 PM ---( Card dealt to : the K of Spades )---
+2:21:40 PM ---( Card dealt to : the 9 of Clubs )---
+2:21:40 PM ---( Card dealt to : the 3 of Hearts )---
+2:21:40 PM ---( Card dealt to : the 3 of Clubs )---
+2:21:40 PM ---( Card dealt to : the Q of Diamonds )---
+2:21:45 PM === DECK RESHUFFLED ===
+2:21:48 PM ---( Card dealt to : the Q of Hearts )---
+2:21:48 PM ---( Card dealt to : the Q of Diamonds )---
+2:21:48 PM ---( Card dealt to : the J of Clubs )---
+2:21:48 PM ---( Card dealt to : the Q of Clubs )---
+2:21:48 PM ---( Card dealt to : the K of Diamonds )---
+2:21:48 PM ---( Card dealt to : the 8 of Spades )---
+2:21:59 PM ---( Card dealt to : the 7 of Clubs )---
+2:21:59 PM ---( Card dealt to : the 9 of Diamonds )---
+2:22:00 PM ---( Card dealt to : the 5 of Hearts )---
+2:22:00 PM ---( Card dealt to : the 0 of Spades )---
+2:22:00 PM ---( Card dealt to : the 8 of Hearts )---
+2:22:00 PM ---( Card dealt to : the K of Spades )---
+2:22:08 PM ---( Card dealt to : the 5 of Clubs )---
+2:22:08 PM ---( Card dealt to : the 3 of Hearts )---
+2:22:09 PM ---( Card dealt to : the Q of Spades )---
+2:22:09 PM ---( Card dealt to : the 4 of Hearts )---
+2:22:09 PM ---( Card dealt to : the A of Spades )---
+2:22:09 PM ---( Card dealt to : the 0 of Hearts )---
+2:22:12 PM ---( Card dealt to : the J of Diamonds )---
+2:22:12 PM ---( Card dealt to : the 0 of Diamonds )---
+2:22:12 PM ---( Card dealt to : the 8 of Clubs )---
+2:22:12 PM ---( Card dealt to : the A of Diamonds )---
+2:22:12 PM ---( Card dealt to : the 8 of Diamonds )---
+2:22:13 PM ---( Card dealt to : the 9 of Hearts )---
+2:23:18 PM ---( Card dealt to : the 4 of Clubs )---
+2:23:18 PM ---( Card dealt to : the K of Clubs )---
+2:23:18 PM ---( Card dealt to : the A of Hearts )---
+2:23:18 PM ---( Card dealt to : the 6 of Hearts )---
+2:23:18 PM ---( Card dealt to : the 2 of Clubs )---
+2:23:18 PM ---( Card dealt to : the 9 of Clubs )---
+2:23:39 PM === DECK RESHUFFLED ===
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 2:31:11 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 2:34:25 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 2:42:24 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:10:27 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:11:56 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:12:20 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:12:48 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:17:31 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:17:49 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:18:01 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:19:19 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:19:32 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:19:51 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:21:09 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:21:39 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:23:31 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:27:55 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:29:01 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:31:03 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:53:45 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 3:55:48 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 4:11:40 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 4:16:34 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 5:04:37 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 6:39:45 PM-\-\-\-\-
+ 
+11/10/2002 6:39:52 PM <( Log Append Note )>: asd
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 7:11:12 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 7:16:14 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 7:17:25 PM-\-\-\-\-
+ 
+11/10/2002 7:22:14 PM <( Log Append Note )>: 
+11/10/2002 7:22:14 PM <( Log Append Note )>: 
+11/10/2002 7:22:14 PM <( Log Append Note )>: 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 7:23:42 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 7:25:20 PM-\-\-\-\-
+ 
+11/10/2002 7:26:25 PM =+= New Player Joined! Clarence =+=
+11/10/2002 7:26:25 PM =+= New Player Joined! Clarence =+=
+11/10/2002 7:26:59 PM ---( Card dealt to : the J of Hearts )---
+11/10/2002 7:26:59 PM ---( Card dealt to : the 7 of Hearts )---
+11/10/2002 7:27:00 PM ---( Card dealt to : the J of Clubs )---
+11/10/2002 7:27:00 PM ---( Card dealt to : the 6 of Diamonds )---
+11/10/2002 7:27:00 PM ---( Card dealt to : the 9 of Hearts )---
+11/10/2002 7:27:00 PM ---( Card dealt to : the K of Clubs )---
+11/10/2002 7:27:56 PM =+= Clarence FOLDED!! =+=
+11/10/2002 7:28:39 PM <( Log Append Note )>: damn motormouth clarence
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 7:32:24 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 7:33:26 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 7:39:44 PM-\-\-\-\-
+ 
+11/10/2002 7:40:08 PM -*- New Player Joined the Game:Cordy-*-
+11/10/2002 7:40:08 PM =+= New Player Joined! Cordy =+=
+11/10/2002 7:40:20 PM Cordy: Testing testing dammit
+11/10/2002 7:40:52 PM ---( Card dealt to : the K of Spades )---
+11/10/2002 7:40:52 PM ---( Card dealt to : the 9 of Spades )---
+11/10/2002 7:40:52 PM ---( Card dealt to : the J of Diamonds )---
+11/10/2002 7:40:52 PM ---( Card dealt to : the 5 of Clubs )---
+11/10/2002 7:40:52 PM ---( Card dealt to : the 8 of Spades )---
+11/10/2002 7:40:52 PM ---( Card dealt to : the Q of Diamonds )---
+11/10/2002 7:40:56 PM Cordy: hmmmm
+11/10/2002 7:41:00 PM Cordy: whats up with this
+11/10/2002 7:41:17 PM -*- New Player Joined the Game:Bear-*-
+11/10/2002 7:41:17 PM =+= New Player Joined! Bear =+=
+11/10/2002 7:41:26 PM Bear: whats up with all this
+11/10/2002 7:41:53 PM ---( Card dealt to : the 4 of Spades )---
+11/10/2002 7:41:53 PM ---( Card dealt to : the A of Clubs )---
+11/10/2002 7:41:54 PM ---( Card dealt to : the A of Hearts )---
+11/10/2002 7:41:54 PM ---( Card dealt to : the K of Diamonds )---
+11/10/2002 7:41:54 PM ---( Card dealt to : the Q of Hearts )---
+11/10/2002 7:41:54 PM ---( Card dealt to : the Q of Spades )---
+11/10/2002 7:42:02 PM Cordy: akjsdalkdjasljd
+11/10/2002 7:42:16 PM ---( Card dealt to : the 3 of Diamonds )---
+11/10/2002 7:42:16 PM ---( Card dealt to : the 7 of Spades )---
+11/10/2002 7:42:16 PM ---( Card dealt to : the 6 of Diamonds )---
+11/10/2002 7:42:17 PM ---( Card dealt to : the A of Diamonds )---
+11/10/2002 7:42:17 PM ---( Card dealt to : the 9 of Diamonds )---
+11/10/2002 7:42:17 PM ---( Card dealt to : the 0 of Hearts )---
+11/10/2002 7:42:25 PM ---( Card dealt to : the 2 of Hearts )---
+11/10/2002 7:42:26 PM ---( Card dealt to : the J of Hearts )---
+11/10/2002 7:42:26 PM ---( Card dealt to : the J of Spades )---
+11/10/2002 7:42:26 PM ---( Card dealt to : the 7 of Hearts )---
+11/10/2002 7:42:26 PM ---( Card dealt to : the 6 of Spades )---
+11/10/2002 7:42:26 PM ---( Card dealt to : the 5 of Spades )---
+11/10/2002 7:42:28 PM ---( Card dealt to : the 4 of Diamonds )---
+11/10/2002 7:42:28 PM ---( Card dealt to : the 7 of Clubs )---
+11/10/2002 7:42:28 PM ---( Card dealt to : the 0 of Spades )---
+11/10/2002 7:42:29 PM ---( Card dealt to : the 5 of Hearts )---
+11/10/2002 7:42:29 PM ---( Card dealt to : the 2 of Spades )---
+11/10/2002 7:42:31 PM ---( Card dealt to : the 7 of Diamonds )---
+11/10/2002 7:42:31 PM ---( Card dealt to : the 3 of Clubs )---
+11/10/2002 7:42:31 PM ---( Card dealt to : the K of Clubs )---
+11/10/2002 7:42:31 PM ---( Card dealt to : the 0 of Diamonds )---
+11/10/2002 7:42:31 PM ---( Card dealt to : the 2 of Diamonds )---
+11/10/2002 7:42:31 PM ---( Card dealt to : the 0 of Clubs )---
+11/10/2002 7:42:32 PM ---( Card dealt to : the Q of Clubs )---
+11/10/2002 7:42:32 PM ---( Card dealt to : the 3 of Hearts )---
+11/10/2002 7:42:32 PM ---( Card dealt to : the A of Spades )---
+11/10/2002 7:42:32 PM ---( Card dealt to : the 8 of Diamonds )---
+11/10/2002 7:42:33 PM ---( Card dealt to : the 6 of Hearts )---
+11/10/2002 7:42:33 PM ---( Card dealt to : the K of Hearts )---
+11/10/2002 7:42:50 PM *@* Bear: has FOLDED. *@*
+11/10/2002 7:42:50 PM =+= Bear FOLDED!! =+=
+11/10/2002 7:42:54 PM *@* Cordy: has FOLDED. *@*
+11/10/2002 7:42:54 PM =+= Cordy FOLDED!! =+=
+11/10/2002 7:42:57 PM =+= Bear dropped connection. =+=
+11/10/2002 7:43:00 PM =+= Cordy dropped connection. =+=
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 7:47:14 PM-\-\-\-\-
+ 
+11/10/2002 7:48:17 PM =+= New Player Joined the Game:Snape=+=
+11/10/2002 7:48:25 PM Snape: I aint happy
+11/10/2002 7:48:30 PM Snape: Im feeling glad
+11/10/2002 7:48:34 PM Snape: I got sunshine
+11/10/2002 7:48:36 PM Snape: in a bag
+11/10/2002 7:48:50 PM <( Log Append Note )>: what the hell is snape on... jeesh
+11/10/2002 7:48:54 PM ---( Card dealt to : the 4 of Clubs )---
+11/10/2002 7:48:54 PM ---( Card dealt to : the Q of Spades )---
+11/10/2002 7:48:55 PM ---( Card dealt to : the 7 of Clubs )---
+11/10/2002 7:48:55 PM ---( Card dealt to : the 2 of Diamonds )---
+11/10/2002 7:48:55 PM ---( Card dealt to : the 5 of Hearts )---
+11/10/2002 7:48:55 PM ---( Card dealt to : the 9 of Clubs )---
+11/10/2002 7:49:02 PM =+= Snape: has FOLDED. =+=
+11/10/2002 7:50:12 PM =+= Snape dropped connection. =+=
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 7:53:16 PM-\-\-\-\-
+ 
+11/10/2002 7:53:27 PM =+= New Player Joined the Game:snape=+=
+11/10/2002 7:53:39 PM =+= New Player Joined the Game:malfoy=+=
+11/10/2002 7:54:16 PM << Private Message from malfoy: whats up >>
+11/10/2002 7:54:16 PM <[Server Only from malfoy]>: whats up
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 8:59:46 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 9:00:50 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 9:38:13 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 9:42:24 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 9:43:18 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 9:43:39 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 9:44:07 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 9:48:00 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 9:51:52 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 9:55:42 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 9:57:59 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:01:03 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:05:17 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:12:34 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:13:34 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:14:09 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:17:01 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:17:19 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:17:49 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:18:57 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:19:31 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:20:27 PM-\-\-\-\-
+ 
+10:21:35 PM === DECK RESHUFFLED ===
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:23:00 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:25:42 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:28:19 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:29:24 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/10/2002 10:31:07 PM-\-\-\-\-
+ 

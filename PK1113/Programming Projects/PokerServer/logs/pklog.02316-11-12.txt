@@ -1,0 +1,247 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+| PokerKnight Game Log File |
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Copyright, ShadowCastle Software
+This is the game record for 11/12/2002 8:01:12 PM
+ 
+=+= - Player Connect Events
+*@* - Game Events
+ 
+      SESSION #1       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- Today's first session began at 11/12/2002 8:01:12 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:01:55 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:03:08 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:28:05 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:29:09 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:29:29 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:30:39 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:33:57 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:34:16 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:38:15 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:39:35 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:42:09 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:44:28 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:47:23 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:48:15 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:48:40 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:55:15 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 8:56:48 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 9:14:36 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 9:22:44 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 9:26:48 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 9:29:25 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 9:49:42 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 9:49:53 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:02:44 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:03:39 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:04:43 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:09:06 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:09:19 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:21:55 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:22:11 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:25:40 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:27:58 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:31:05 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:35:36 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:36:19 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:36:49 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:48:41 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:50:26 PM-\-\-\-\-
+ 
+ 
+ 
+      SESSION #2       
+=-=-=-=-=-=-=-=-=-=-=-=-=
+-/-/-/- This session began at 11/12/2002 10:52:44 PM-\-\-\-\-
+ 
